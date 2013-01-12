@@ -1,5 +1,9 @@
 package com.tvganesh.bulldozed;
 
+/*
+ * Developed by Tinniam V Ganesh 12 Jan 2013
+ * This demo uses Box2D Physics Engine and AndEngine
+ */
 
 import java.util.Vector;
 
